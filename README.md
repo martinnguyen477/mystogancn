@@ -25,6 +25,7 @@
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-html-5.svg" alt="HTML" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-css3.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-bootstrap.svg" alt="Bootstrap" height="50" />
+<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-javascript.svg" alt="Javascript" height="50" /> 
 </div></td><td valign="top" width="33%">
 
 ### Backend  
