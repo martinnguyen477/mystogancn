@@ -49,25 +49,25 @@
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-adobe-illustrator.svg" alt="Adobe Illustrator" height="50" />
 </div></td></tr></table>  
 
-## Learning
+<!--## Learning-->
 
 
-<a href="">
+<!--<a href="">
   <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-c-sharp-logo.svg" alt="C#" height="50" />
-</a>
+</a>-->
 <a href="">
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-javascript.svg" alt="Javascript" height="50" /> 
-</a>
+<!--<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-javascript.svg" alt="Javascript" height="50" /> 
+</a> -->
 
-## Contact
+<!--## Contact-->
 
-<a href="https://www.facebook.com/nqcuong20/">
+<!--<a href="https://www.facebook.com/nqcuong20/">
   <img align="left" alt="Facebook" width="50px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-facebook.svg"  />
-</a>
+</a>-->
 
-<a href="https://www.instagram.com/mystogancn/">
+<!--<a href="https://www.instagram.com/mystogancn/">
   <img align="left" alt="Instagram" width="50px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-instagram.svg"  />
-</a>
+</a>-->
 <!--<a href="https://www.instagram.com/mystogancn/">
   <img align="left" alt="Email" width="50px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-mail-240.png"  />
 </a> -->
