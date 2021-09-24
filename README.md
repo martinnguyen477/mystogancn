@@ -11,11 +11,6 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@nqcuong720](nqcuong720@gmail.com);
 
-  <!--
-### Music 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
-
 ## My Skill Set 
 
 <table><tr><td valign="top" width="33%">
@@ -49,6 +44,11 @@
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-adobe-photoshop.svg" alt="Adobe Photoshop" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-adobe-illustrator.svg" alt="Adobe Illustrator" height="50" />
 </div></td></tr></table>  
+
+  <!-- 
+  ### Music 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
 
 <!--## Learning-->
 
