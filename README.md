@@ -21,8 +21,7 @@ const info_me = {
   architecture: ["MVC", "RESTFUL"],
   contact: {
                         gmail: "nqcuong720@gmail.com",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+                        address: "Ho Chi Minh City",
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on Angular"
 }
@@ -32,63 +31,4 @@ const info_me = {
 
 ---
 
-<table><tr><td valign="top" width="33%">
-
-### Frontend  
-
-<div align="center">  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-html-5.svg" alt="HTML" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-css3.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-bootstrap.svg" alt="Bootstrap" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-javascript.svg" alt="Javascript" height="50" /> 
-</div></td><td valign="top" width="33%">
-
-### Backend  
-
-<div align="center">  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-javascript.svg" alt="Javascript" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-microsoft-sql-server.svg" alt="MS SQL" height="50" />
-  <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-c-sharp-logo.svg" alt="C#" height="50" />
-   
-</div></td><td valign="top" width="33%">
-
-### Tools 
-
-<div align="center">  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-gitlab.svg" alt="GitLab" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-git.svg" alt="Git" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/github.svg" alt="Adobe Photoshop" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-visual-studio.svg" alt="VS" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-visual-studio-code-2019.svg" alt=VSC" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-adobe-photoshop.svg" alt="Adobe Photoshop" height="50" />
-<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-adobe-illustrator.svg" alt="Adobe Illustrator" height="50" />
-</div></td></tr></table>  
-
-  <!-- 
-  ### Music 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b) -->
-
-<!--## Learning-->
-
-
-<!--<a href="">
-  <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-c-sharp-logo.svg" alt="C#" height="50" />
-</a>-->
-<a href="">
-<!--<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-javascript.svg" alt="Javascript" height="50" /> 
-</a> -->
-
-<!--## Contact-->
-
-<!--<a href="https://www.facebook.com/nqcuong20/">
-  <img align="left" alt="Facebook" width="50px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-facebook.svg"  />
-</a>-->
-
-<!--<a href="https://www.instagram.com/mystogancn/">
-  <img align="left" alt="Instagram" width="50px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-instagram.svg"  />
-</a>-->
-<!--<a href="https://www.instagram.com/mystogancn/">
-  <img align="left" alt="Email" width="50px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-mail-240.png"  />
-</a> -->
 
