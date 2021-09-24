@@ -34,7 +34,7 @@
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-javascript.svg" alt="Javascript" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-microsoft-sql-server.svg" alt="MS SQL" height="50" />
   <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-c-sharp-logo.svg" alt="C#" height="50" />
-    <img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/sql.svg" alt="My SQL" height="50" />
+    <!--<img style="margin: 10px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/sql.svg" alt="My SQL" height="50" />-->
 </div></td><td valign="top" width="33%">
 
 ### Tools 
