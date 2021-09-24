@@ -68,7 +68,7 @@
 <a href="https://www.instagram.com/mystogancn/">
   <img align="left" alt="Instagram" width="50px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-instagram.svg"  />
 </a>
-<a href="https://www.instagram.com/mystogancn/">
+<!--<a href="https://www.instagram.com/mystogancn/">
   <img align="left" alt="Email" width="50px" src="https://raw.githubusercontent.com/nqcuong20/nqcuong20/master/images/icons8-mail-240.png"  />
-</a>
+</a> -->
 
