@@ -17,8 +17,8 @@
 const info_me = {
   pronouns: "he" | "his",
   code: [ C#, ASP.NET Core, HTML, CSS, Javascript, Jquery, SQL],
-  tools: [ Visual Studio/VSCode, Git, GitHub/GitLab, Photoshop, Illustrator, Notepad++, SQL Server ],
-  architecture: ["MVC", "RESTFUL"],
+  tools: [ Visual Studio/Visual Studio Code, Git, GitHub/GitLab, Photoshop, Illustrator, Notepad++, SQL Server ],
+  architecture: ["MVC", "RESTful API"],
   contact: {
                         gmail: "nqcuong720@gmail.com",
                         address: "Ho Chi Minh City",
