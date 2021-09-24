@@ -9,7 +9,7 @@
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning .NET, Javascript, Angular; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@nqcuong](https://www.facebook.com/nqcuong20);
+- 📫 How to reach me: [@nqcuong720](nqcuong720@gmail.com);
 
 ### Music 🎧
 
