@@ -10,8 +10,8 @@
 ```javascript
 const cuongnq = {
   pronouns: "he" | "him",
-  code: [ "C#", "HTML", "CSS", "Javascript", "SQL"],
-  tools: [ "Visual Studio/Visual Studio Code", "Git", "GitHub/GitLab", "Notepad++", "SQL Server" ],
+  code: [ C#, HTML, CSS, Javascript, SQL],
+  tools: [ Visual Studio/Visual Studio Code, Git, GitHub/GitLab, Notepad++, SQL Server ],
   technologies: {
               backEnd: ["ASP.NET Core API", "ASP.NET Core MVC"],
               frontEnd: {
