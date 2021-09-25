@@ -31,7 +31,7 @@ const cuongnq = {
                         designUI: ["Photoshop", "Illustrator", "Figma"]
                       },
               database: ["SQL Server", "MySQL", "Oracle"]
-              }
+              },
   architecture: ["MVC", "RESTful API", "Design System Pattern"],
   currentFocus: ["ASP.NET Core API", "Angular", "Design UI"],
   challenge: "I am doing the #100DaysOfCode challenge focused on Angular"
