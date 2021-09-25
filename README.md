@@ -7,10 +7,10 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...  
 
 ```javascript
-const info_me = {
+const cuongnq = {
   pronouns: "he" | "his",
   code: [ C#, ASP.NET Core, HTML, CSS, Javascript, Jquery, SQL],
-  tools: [ Visual Studio/Visual Studio Code, Git, GitHub/GitLab, Photoshop, Illustrator, Notepad++, SQL Server ],
+  tools: [ Visual Studio/Visual Studio Code, Git, GitHub/GitLab, Notepad++, SQL Server ],
   architecture: ["MVC", "RESTful API"],
   contact: {
                         gmail: "nqcuong720@gmail.com",
