@@ -27,7 +27,7 @@ const cuongnq = {
   technologies: {
               backEnd: ["ASP.NET Core API", "ASP.NET Core MVC"],
               frontEnd: {
-                        code: ["HTML", "CSS", "JAVASCRIPT", "JQUERY", "ANGULAR"]
+                        code: ["HTML", "CSS", "JAVASCRIPT", "JQUERY", "ANGULAR"],
                         designUI: ["Photoshop", "Illustrator", "Figma"]
                       },
               database: ["SQL Server", "MySQL", "Oracle"]
