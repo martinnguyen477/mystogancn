@@ -19,7 +19,7 @@ const cuong = {
                       },
               database: ["SQL Server", "MySQL", "Oracle"]
               },
-  architecture: ["MVC", "RESTful API", "Design System Pattern"],
+  architecture: ["MVC", "RESTful API", "Design System Pattern", "CQRS"],
   currentFocus: ["ASP.NET Core API", "Angular", "Design UI"],
   challenge: "I am doing the #100DaysOfCode challenge focused on Angular"
 }
