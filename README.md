@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Cuong_Nguyen <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
+<h1 align="center"> Hi, I'm Cuong Nguyen <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
   
 ## I'm a .NET Developer from VietNam! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
